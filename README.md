@@ -1,4 +1,4 @@
-# SO2_HT2
+# SO2_HT2_201901073
 Hoja de Trabajo 2 Sistemas Operativos 2
 
 Sistema Operativo usado: Linux Mint
